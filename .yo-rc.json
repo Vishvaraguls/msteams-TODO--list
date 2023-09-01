@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "LTTS"
+    },
+    "libraryName": "newPersonalTab",
+    "generator-version": "4.1.0"
+  }
+}
